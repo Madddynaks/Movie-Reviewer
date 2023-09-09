@@ -1,4 +1,4 @@
-let apiKey = "https://www.omdbapi.com/?i=tt3896198&apikey=7237b0c6&t="
+let apiKey = " "
 
 let title = document.getElementById('title');
 let desc = document.getElementById('desc');
